@@ -6,6 +6,8 @@
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)](https://github.com/microsoft/vscode-java-dependency/actions/workflows/linux.yml?query=branch%3Amain)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/macOS.yml?label=Darwin%20Build&style=flat-square)](https://github.com/microsoft/vscode-java-dependency/actions/workflows/macOS.yml?query=branch%3Amain)
 
+test
+
 ## Overview
 
 A lightweight extension to provide additional Java project explorer features. It works with [Language Support for Java by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java) to provide the following features:
