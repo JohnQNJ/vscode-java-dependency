@@ -1,6 +1,7 @@
 # Project Manager for Java
 
 test2
+test3
 > Manage Java projects in Visual Studio Code
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)](https://github.com/microsoft/vscode-java-dependency/actions/workflows/windows.yml?query=branch%3Amain)
